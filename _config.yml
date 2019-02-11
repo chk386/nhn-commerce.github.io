@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "NHN Commerce Platform Dev Deam"
+title                    : "Commerce Platform Dev Deam"
 title_separator          : "-"
 name                     : "NHN Entertainment Corp."
 description              : "Dev Blog"
