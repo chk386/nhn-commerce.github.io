@@ -24,7 +24,7 @@ url                      : "https://nhn-commerce.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nhn-commerce" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "https://www.nhnent.com/renewal/img/logo_white.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "http://uicdn.toast.com/toastui/img/bi-ncp.png" # "/assets/images/88x88.png"
+logo                     : "https://www.e-ncp.com/img/common/logo_footer.png" # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
