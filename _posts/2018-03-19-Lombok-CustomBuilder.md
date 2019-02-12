@@ -1,6 +1,11 @@
 ---
-layout: post
-title: lombok 의 Custom Builder 이슈
+title: "lombok 의 Custom Builder 이슈"
+last_modified_at: 2018-01-03T09:45:06-05:00
+header:
+  teaser: "https://mmistakes.github.io/minimal-mistakes/assets/images/markup-syntax-highlighting-teaser.jpg"
+tags: 
+  - lombok
+toc: true
 ---
 
 lombok 의 커스텀 builder 사용 시  이슈
