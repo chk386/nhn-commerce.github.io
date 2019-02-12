@@ -1,7 +1,6 @@
 ---
 layout: post
 title: lombok 의 Custom Builder 이슈
-excerpt_separator:  <!--more-->
 ---
 
 lombok 의 커스텀 builder 사용 시  이슈
